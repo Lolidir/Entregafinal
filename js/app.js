@@ -67,3 +67,4 @@ function calculadora () {
     }
 
     alert(`El resultado es ${resultado}`)
+    alert(`El resultado es ${resultado}`)
